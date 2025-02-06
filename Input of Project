@@ -1,0 +1,34 @@
+---draftOfProject.java---
+You can to test 
+
+Input: 
+ZERO gibirish ONE gibirish ZERO gibirish ZERO
+ gibirish ONE gibirish ZERO
+ gibirish ZERO
+ gibirish ZERO gibirish ZERO gibirish
+ ZERO gibirish ONE gibirish
+ ONE gibirish ZERO gibirish
+ ONE gibirish ZERO gibirish ZERO gibirish ZERO
+ gibirish ONE gibirish
+ ZERO gibirish ZERO gibirish ZERO
+ gibirish ZERO gibirish
+ ONE gibirish ONE gibirish
+ ZERO gibirish ONE gibirish
+ ZERO gibirish ZERO
+ gibirish
+ ONE gibirish ZERO
+ gibirish ONE gibirish ONE gibirish ZERO gibirish
+ ZERO gibirish ONE
+ gibirish ONE gibirish ZERO gibirish ZERO
+ gibirish ONE
+ gibirish ONE gibirish ZERO
+ gibirish ONE gibirish ZERO
+ gibirish ONE gibirish
+ ZERO gibirish ZERO gibirish ONE
+ gibirish ZERO gibirish ZERO gibirish ZERO
+ gibirish ONE gibirish ONE
+ gibirish ZERO gibirish ONE gibirish ZERO
+ gibirish ONE
+
+Output:
+ HACKER5
